@@ -1,6 +1,6 @@
 # Bitclustr
 
-# Dependencies
+## Dependencies
 flask
 pyMongo
 python-bitcoinlib
