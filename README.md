@@ -1,6 +1,2 @@
 # Bitclustr
-
-## Dependencies
-flask
-pyMongo
-python-bitcoinlib
+Moved to https://github.com/mathieulavoie/Bitcluster
